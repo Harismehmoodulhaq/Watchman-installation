@@ -1,6 +1,6 @@
 # Watchman-installation
 
-# `Step No : 1`
+#### `Step No : 1`
 
 `sudo apt-get update`
 
@@ -8,7 +8,7 @@
 
 `sudo apt update`
 
-***
+*******
 
 # `Step No : 2`
 

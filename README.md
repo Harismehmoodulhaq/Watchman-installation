@@ -53,7 +53,7 @@
 
 ************
 
-### `Step No: 8`
+### `Step No : 9`
 
 `sudo make install`
 
